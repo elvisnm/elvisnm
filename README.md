@@ -5,7 +5,7 @@
 ### 🚀 Live Projects
 
 <p>
-  <a href="https://elvisnm.github.io/blackbox"><img src="https://img.shields.io/badge/Blackbox-FF5722?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+  <a href="https://bbox.run"><img src="https://img.shields.io/badge/Blackbox-FF5722?style=for-the-badge&logo=rocket&logoColor=white" /></a>
   &nbsp;
   <a href="https://www.flbuildingcheck.com"><img src="https://img.shields.io/badge/FL_Building_Check-4A7C6F?style=for-the-badge&logoColor=white" /></a>
 </p>
